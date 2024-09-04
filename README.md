@@ -4,7 +4,6 @@ Happy Teachers Day! 🎓
 
 In celebration of Teachers Day, I created an animated webpage using HTML, CSS, and JavaScript as a tribute to Avijit Sir. This page showcases some fun and interactive animations to honor the occasion. 🎨✨
 
-[Check out the page here!](https://sahoochinmay.github.io/TeachersDay/) 🌐
 
 ## About 🌟
 
