@@ -4,7 +4,6 @@ Happy Teachers Day! 🎓
 
 In celebration of Teachers Day, I created an animated webpage using HTML, CSS, and JavaScript as a tribute to Avijit Sir. This page showcases some fun and interactive animations to honor the occasion. 🎨✨
 
-
 ## About 🌟
 
 This project demonstrates the use of HTML, CSS, and JavaScript to create engaging and visually appealing animations. It features:
@@ -13,7 +12,7 @@ This project demonstrates the use of HTML, CSS, and JavaScript to create engagin
 - 📜 Fun letter drop and rotation effects.
 - 🎡 Interactive elements to enhance user experience.
 
-Feel free to explore the page and enjoy the animations! 🎉
+Feel free to explore the page and enjoy the animations!(tried my best lol!) 🎉
 
 ## Tech Stack 🧑‍💻
 
@@ -27,4 +26,4 @@ This project is dedicated to Avijit Sir in honor of Teachers Day. Thank you for 
 
 ---
 
-*Made with love and appreciation.* ❤️
+_Made with love and appreciation._ ❤️
